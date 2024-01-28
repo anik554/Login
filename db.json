@@ -1,0 +1,39 @@
+{
+    "Cities":[
+        {
+            "id":1,
+            "division": "Dhaka",
+            "district" : "Mohammadpur",
+            "time" : "09:30 am",
+            "date" : "Dec 5, 2023"
+        },
+        {
+            "id":2,
+            "division": "Rangpur",
+            "district" : "Kurigram",
+            "time" : "12:30 pm",
+            "date" : "Nov 5, 2023"
+        },
+        {
+            "id":3,
+            "division": "Barisal",
+            "district" : "Golachipa",
+            "time" : "10:00 am",
+            "date" : "Oct 5, 2022"
+        },
+        {
+            "id":4,
+            "division": "Rajshahi",
+            "district" : "Bugmara",
+            "time" : "07:00 pm",
+            "date" : "Sep 5, 2021"
+        },
+        {
+            "id":5,
+            "division": "Khulna",
+            "district" : "Jhenidah",
+            "time" : "05:00 pm",
+            "date" : "Dec 5, 2023"
+        }
+    ]
+}
